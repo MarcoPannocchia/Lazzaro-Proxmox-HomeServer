@@ -20,10 +20,10 @@
 
 |                 |        |
 | --------------- | ------ |
-| Hostname        | panno  |
-| Enable password | ciccio |
-| SSH user        | panno  |
-| SSH password    | ciccio |
+| Hostname        | ***  |
+| Enable password | *** |
+| SSH user        | ***  |
+| SSH password    | *** |
 
 ## Interface map
 

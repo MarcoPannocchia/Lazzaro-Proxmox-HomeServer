@@ -17,7 +17,7 @@
 | ------------- | ----------------------------------------- |
 | OS            | Proxmox VE 9.1                            |
 | Management UI | https://<IP_ADDRESS>:8006                |
-| Credentials   | user: <USERNAME> / password: Cicci0bell0!**** |
+| Credentials   | user: <USERNAME> / password: **** |
 
 ## Network bridges
 

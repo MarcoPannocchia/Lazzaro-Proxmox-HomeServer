@@ -17,8 +17,8 @@
 
 | | |
 |-|-|
-| Default user | `msfadmin` |
-| Default password | `msfadmin` |
+| Default user | ___ |
+| Default password | ___ |
 
 > [!warning] Intentionally vulnerable
 > This VM must never be exposed outside vmbr1. Keep it isolated on the internal lab network at all times.

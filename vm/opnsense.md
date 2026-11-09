@@ -18,8 +18,8 @@
 | ----------------------- | ---------------------------------------- |
 | Web UI                  | https://<IP_ADDRESS>                      |
 | Admin user              | `root`                                   |
-| Admin password          | opnsense (Still the same for now)        |
-| First login (installer) | user: <USERNAME> / password: `opnsense` |
+| Admin password          | ___        |
+| First login (installer) | user: <USERNAME> / password: ___ |
 
 ## Network interfaces
 

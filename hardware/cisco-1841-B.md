@@ -25,9 +25,9 @@ ___ (e.g. inter-VLAN routing, WAN simulation, BGP/OSPF lab with 1841-A)
 |                 |        |
 | --------------- | ------ |
 | Hostname        | panno  |
-| Enable password | ciccio |
+| Enable password | ___ |
 | SSH user        | ___    |
-| SSH password    | ciccio |
+| SSH password    | ___ |
 
 ## Interface map
 

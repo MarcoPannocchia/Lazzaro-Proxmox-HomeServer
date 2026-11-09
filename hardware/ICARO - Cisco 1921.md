@@ -21,9 +21,9 @@
 |                 |        |
 | --------------- | ------ |
 | Hostname        | panno  |
-| Enable password | ciccio |
+| Enable password | ___ |
 | SSH user        | panno  |
-| SSH password    | ciccio |
+| SSH password    | ___ |
 
 ## Interface map
 
